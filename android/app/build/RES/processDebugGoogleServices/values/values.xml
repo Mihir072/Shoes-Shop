@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">315957554857</string>
+    <string name="google_api_key" translatable="false">AIzaSyAWjSWHIOb5ZW6Xqq7x5nlZ-SmfwrKrk5A</string>
+    <string name="google_app_id" translatable="false">1:315957554857:android:6599028da11155dd5503b8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAWjSWHIOb5ZW6Xqq7x5nlZ-SmfwrKrk5A</string>
+    <string name="google_storage_bucket" translatable="false">shoes-shop-73b9c.appspot.com</string>
+    <string name="project_id" translatable="false">shoes-shop-73b9c</string>
+</resources>
